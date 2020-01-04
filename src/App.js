@@ -1,5 +1,5 @@
 import React from 'react';
-import Main from "../src/components/main";
+import Main from "../src/components/Main";
 import './App.css';
 import 'antd/dist/antd.css';
 
